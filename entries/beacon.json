@@ -6,8 +6,7 @@
     "url": "./icons/beacon-ef5cb673.svg"
   },
   "screenshots": [
-    "./screenshots/beacon/status.png",
-    "./screenshots/beacon/processes.png"
+    "./screenshots/beacon/status.jpg"
   ],
   "overview": "./overview/beacon.md",
   "tags": [
