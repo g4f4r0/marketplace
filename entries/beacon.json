@@ -1,12 +1,12 @@
 {
   "id": "beacon",
   "displayName": "Beacon",
-  "description": "See CPU, memory, disk, and process pressure on the BB server from the sidebar, without leaving the workspace. Open Status in the footer while you work. Optional background checks toast when CPU or memory stays high for a full minute. Network rates are Linux-only. Beacon reads the BB host only and does not change settings or call a monitoring service.",
+  "description": "See CPU, memory, disk, and processes on the BB server from the footer. Optional toasts after a minute of high load. Network rates are Linux-only.",
   "icon": {
     "url": "./icons/beacon-ef5cb673.svg"
   },
   "screenshots": [
-    "./screenshots/beacon/status.jpg"
+    "./screenshots/beacon/screenshot.jpg"
   ],
   "overview": "./overview/beacon.md",
   "tags": [
@@ -14,10 +14,7 @@
     "cpu",
     "memory",
     "disk",
-    "network",
     "processes",
-    "sidebar",
-    "health",
     "linux"
   ],
   "author": {
